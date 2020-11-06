@@ -1,8 +1,8 @@
 {
   "config": [
-    { "key": "1", "service": "Entendendo o ES6", "issue": "https://www.codeprestige.com.br/cursos/es6", "data1" : "AVAYA" },
-    { "key": "2", "service": "Entendendo o ES6", "issue": "https://www.codeprestige.com.br/cursos/es6", "data1" : "AVAYA" },
-    { "key": "3", "service": "Entendendo o ES6", "issue": "https://www.codeprestige.com.br/cursos/es6", "data1" : "AVAYA" },
-    { "key": "4", "service": "Entendendo o ES6", "issue": "https://www.codeprestige.com.br/cursos/es6", "data1" : "AVAYA" }
+    { "key": "123", "service": "VENTAS1", "issue": "CELLPHONE1", "data1" : "AVAYA1" },
+    { "key": "234", "service": "VENTAS2", "issue": "CELLPHONE2", "data1" : "AVAYA2" },
+    { "key": "321", "service": "VENTAS3", "issue": "CELLPHONE3", "data1" : "AVAYA3" },
+    { "key": "414", "service": "VENTAS4", "issue": "CELLPHONE4", "data1" : "AVAYA4" }
   ]
 }
