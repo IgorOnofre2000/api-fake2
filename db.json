@@ -1,9 +1,9 @@
 {
   "config": [
-    { "key": "123", "service": "VENTAS1", "issue": "CELLPHONE1", "data1" : "AVAYA1" },
-    { "key": "234", "service": "VENTAS2", "issue": "CELLPHONE2", "data1" : "AVAYA2" },
-    { "key": "321", "service": "VENTAS3", "issue": "CELLPHONE3", "data1" : "AVAYA3" },
-    { "key": "414", "service": "VENTAS4", "issue": "CELLPHONE4", "data1" : "AVAYA4" }
+    { "KEY": "123", "SERVICE": "VENTAS1", "ISSUE": "CELLPHONE1", "DATA1" : "AVAYA1" },
+    { "KEY": "234", "SERVICE": "VENTAS2", "ISSUE": "CELLPHONE2", "DATA1" : "AVAYA2" },
+    { "KEY": "321", "SERVICE": "VENTAS3", "ISSUE": "CELLPHONE3", "DATA1" : "AVAYA3" },
+    { "KEY": "414", "SERVICE": "VENTAS4", "ISSUE": "CELLPHONE4", "DATA1" : "AVAYA4" }
   ],
   
   "rs1":{
