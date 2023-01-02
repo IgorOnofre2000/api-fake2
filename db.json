@@ -22,8 +22,10 @@
     "data4":"RECIFE"
   },
   
-  "api123":{
-    "newtest":"5555"
+  "api":{
+    "extension":{
+      "newtest":"5555"
+    }
   }
 
 }
