@@ -20,16 +20,5 @@
   "rs3":{
     "newtest":"5555",
     "data4":"RECIFE"
-  },
-  
-  "api":{
-    "extension":{
-      "newtest":"5555"
-    }
-  },
-  
-  "qwerty":{
-    "data4":"RECIFE"
   }
-
 }
