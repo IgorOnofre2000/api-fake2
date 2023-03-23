@@ -3,7 +3,8 @@
   "data": {
     "opcion_desborde": "RES_Otros",
     "Numero_Telmex": "5518040092",
-    "Service": "VENTAS1",
+    "DNIS": "19020002",
+    "Service": "IVR_UNICO",
     "ANI": "5518040092",
     "UCID": "00103098041676664083",
     "Numero_Desborde": "19011001",
